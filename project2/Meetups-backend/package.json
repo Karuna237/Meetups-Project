@@ -1,0 +1,15 @@
+{
+  "name": "meetups-backend",
+  "version": "1.0.0",
+  "description": "meetup backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "karunasai",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mongoose": "^6.5.3"
+  }
+}
